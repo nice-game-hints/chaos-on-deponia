@@ -21,7 +21,7 @@ Press the Button. The dolphins don't like you. I think they are ready to attack 
 Maybe you could devise some kind of decoy-you to send there first.
 
 # Decoy-me?
-The diving suit should look likea human target. [Add water to the diving suit](012-water.md) and [make a face mold of you](013-face.md).
+The diving suit should look likea human target. [Add water to the diving suit](012-water.md) and [make a face mold of you](013-mold.md).
 
 # Target ready!
 Ask Bozo to lower the dummy into the water.
