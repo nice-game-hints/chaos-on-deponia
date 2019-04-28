@@ -9,7 +9,7 @@ The submersible is next to the Cutter but the Hatch is locked.
 Maybe you could try accessing the submersible under the water.
 
 # Diving
-But not wihtout a suit!
+But not without a suit!
 
 # Diving suit
 You find one from the Locker. Attach the Diving Suit to the Hook.
