@@ -21,7 +21,7 @@ It is. That crate is under the *green* pipe.
 Did you know that the crabs really like the song Mating of the Junk Crabs (naturally)?
 
 # No?
-They do. If you could get the condolier to sing that song under the *red* pipe the crabs would get moving. [Get a music sheet for Mating of the Junk Crabs.](060-music-sheet.md)
+They do. If you could get the condolier to sing that song under the *red* pipe the crabs would get moving. [Get a music sheet for Mating of the Junk Crabs.](060-music-sheets.md)
 
 # The condolier has it
 So, you gave the music sheet to the condolier, nice. Now, if he sings it (persuade Bozo to try it again) the crabs will appear in the *red* Pipe opening.
