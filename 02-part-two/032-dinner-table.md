@@ -15,14 +15,14 @@ Well, go talk to the other guy, the Platypus Trapper.
 It is! He supplies the restaurant with platypuses. If you could short the supply maybe they would remove platypus food from the list.
 
 # How?
-It seems that you really should get [membership in the Platypus Club first](033-platypus-club/index.md).
+It seems that you really should get [membership in the Platypus Club first](033-platypus-club.md).
 
 # I am a member
 If you read the field guide you should get that you have to find four platypus eggs, hatch them and put the platypuses into their nests to guard them.
- - [Earth platypus](033-platypus-club/010-earth-platypus/index.md)
- - [Flying platypus](033-platypus-club/020-flying-platypus/index.md)
- - [Fire platypus](033-platypus-club/030-fire-platypus/index.md)
- - [Water platypus](033-platypus-club/040-water-platypus/index.md)
+ - [Earth platypus](033-platypuses/010-earth-platypus/index.md)
+ - [Flying platypus](033-platypuses/020-flying-platypus/index.md)
+ - [Fire platypus](033-platypuses/030-fire-platypus/index.md)
+ - [Water platypus](033-platypuses/040-water-platypus/index.md)
  
 # Menu is clear
 Nicely done! Go talk to Seagull.
