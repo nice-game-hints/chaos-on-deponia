@@ -14,6 +14,6 @@ You can find it at the Harbor. You get there by going right from the Marketplace
 # At the Tavern
 Goal is at the counter. She has the three personalities. You must please all of them. Change her personality and talk to her. You can change her personality by applying the cartridges to the remote and using the remote to her.
  * [Lady Goal](030-lady-goal.md)
- * [Spunky Goal](040-spunky-goal)
+ * [Spunky Goal](040-spunky-goal/)
  * [Baby Goal](050-baby-goal.md)
  
