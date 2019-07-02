@@ -6,7 +6,7 @@ keywords: schlumpi, field guide
 By joining the Platypus Club you get all the benefits of a new member. Including the Field Guide to platypus.
 
 # Membership cards
-As Platypus Trapper tells you he hides membership cards into the restaurant fortune cookies. [Go get one fortune cookie.]()
+As Platypus Trapper tells you he hides membership cards into the restaurant fortune cookies.
 
 # Really?
 Yes he does. 
