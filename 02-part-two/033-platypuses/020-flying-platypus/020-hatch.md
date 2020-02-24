@@ -18,13 +18,13 @@ Did you look at the Pipe?
 Hmm.. yes. By inserting human ashes into the pipe you get the "flag" to half-mast. Logical!
 
 # Human ashes
-There is an urn at the Poet's room under the Seagull's House. [Get the urn](/02-part-two/034-034-crane-the-poet.md) and put the ashes into the pipe.
+There is an urn at the Poet's room under the Seagull's House. [Get the urn](/02-part-two/034-crane-the-poet.md) and put the ashes into the pipe.
 
 # Half mast but no dice
 You can't yet insert the egg into the windsock. It would go through it.
 
 # Tie it
-You could tie it with [the thread](/02-part-two/034-034-crane-the-poet.md). If you try it you get hint what is Rufus' plan. A catapult! You just need one more component to trigger the catapult.
+You could tie it with [the thread](/02-part-two/034-crane-the-poet.md). If you try it you get hint what is Rufus' plan. A catapult! You just need one more component to trigger the catapult.
 
 # What is it?
 A hook. You get one from the fisherman. He has a jar of hooks.
