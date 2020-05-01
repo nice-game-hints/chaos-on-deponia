@@ -12,4 +12,4 @@ Open the toolbox below the mushroom thingy. Grab the Hammer.
 You said you would be more careful! Free the bird, now!
 
 # Where did it go?
-Which one? [The Hammer is under the table](020-find-hammer.md) (use spacebar to see all the possible targets) and [there is a bird-shaped hole in the bathroom door](030-bird.md).
+Which one? [The Hammer is under the table](020-find_hammer.md) (use spacebar to see all the possible targets) and [there is a bird-shaped hole in the bathroom door](030-bird.md).
