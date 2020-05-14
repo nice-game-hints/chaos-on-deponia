@@ -12,7 +12,7 @@ I think she was little excited about invitation to a nice romantic dinner. No pe
 Go talk to Bozo. He will give you advice about Lady Goal **after you have talked with all the Goal's personalities**.
 
 # Seagull
-He lives at the fancy part of the town: [Bellevue](031-enter-bellevue.md). When you get in enter the Manor on right.
+He lives at the fancy part of the town: [Bellevue](031-bellevue.md). When you get in enter the Manor on right.
 
 # Seagull?
 You mean dad? Shoking, I know. Talk to him about Goal. He tells you that you should take her to Chez Schlumpi at the Old Town. [Reserve the table at Sclumpi](032-dinner-table.md).
