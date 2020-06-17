@@ -2,7 +2,7 @@
 title: Chaos on Deponia
 keywords: deponia,guide,chaos on deponia
 author: Juho Rutila
-praise: https://www.buymeacoffee.com/jrutila
+praise: https://www.buymeacoffee.com/jrutila, Buy me the next game, 🎮
 ---
 
 Welcome to spoiler free hints for Chaos on Deponia!
