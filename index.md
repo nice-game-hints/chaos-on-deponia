@@ -3,7 +3,7 @@ title: Chaos on Deponia
 keywords: deponia, rufus, chaos
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
-praiseModal: h10
+praiseModal: h60
 ---
 
 Welcome to spoiler free hints for Chaos on Deponia!
